@@ -36,7 +36,7 @@ describe('down with lambda discrimination!!! (and this and that and self)', () =
     // NOTE, we're using context(), but semantic of 'this' hasn't changed yet;
     // i.e. tests don't yet have their own context; see what follows
     assert(context().immediateContextProp === 1)
-    context().timeout(1)
+    context().timeout(-42)
   })
 })
 
