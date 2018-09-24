@@ -15,7 +15,7 @@ This is a prototype / experimental version of these features, that can be easily
 ## Use with node and bundlers
 
 ```
-npm i mocha-context
+npm i mocha-ctx
 ```
 
 **test.js**
