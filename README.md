@@ -4,7 +4,7 @@
 * Backwards compatible (explicit opt in).
 * Access test context inside lambda functions.
 * Every test gets its own context, sharing parent context, hiding private context.
-* Explicity declared contexual properties and functions, so lower contexts can set higher shared properties.
+* Explicity declared contextual properties and functions, so lower contexts can set higher shared properties.
 * Contextualized 'global' || 'window', with stronger access and use detection on top of leak detection.
 
 
