@@ -1,6 +1,6 @@
 {
   "name": "mocha-ctx",
-  "version": "1.0.0-a.1",
+  "version": "1.0.0-a.2",
   "description": "Enhanced control of mocha context",
   "keywords": [
     "mocha"
