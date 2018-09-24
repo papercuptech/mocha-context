@@ -1,5 +1,5 @@
 {
-  "name": "mocha-lambda",
+  "name": "mocha-ctx",
   "version": "1.0.0-a.0",
   "description": "Enhanced control of mocha context",
   "keywords": [
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/papercuptech/mocha-lambda.git"
+    "url": "git+https://github.com/papercuptech/mocha-context.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/papercuptech/mocha-lambda/issues"
+    "url": "https://github.com/papercuptech/mocha-context/issues"
   },
-  "homepage": "https://github.com/papercuptech/mocha-lambda#readme",
+  "homepage": "https://github.com/papercuptech/mocha-context#readme",
   "devDependencies": {
     "@types/chai": "^4.1.5",
     "@types/mocha": "^5.2.5",

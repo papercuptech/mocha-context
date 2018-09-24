@@ -20,7 +20,7 @@ npm i mocha-context
 
 **test.js**
 ```javascript
-require('mocha-context')
+require('mocha-ctx')
 // the context() global is now overloaded
 
 describe('down with lambda discrimination!!! (and this and that and self)', () => {
@@ -147,7 +147,7 @@ describe('globals', () => {
 //***** other interfaces... 
 
 // all can explicitly import
-var context = require('mocha-context')
+var context = require('mocha-ctx')
 
 
 // or get from globals

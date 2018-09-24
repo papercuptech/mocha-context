@@ -1,6 +1,6 @@
 
 
-declare module 'mocha-context' {
+declare module 'mocha-ctx' {
 	import {
 		SuiteFunction,
 		Context

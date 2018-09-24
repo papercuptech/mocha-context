@@ -1,5 +1,5 @@
 import 'mocha'
-import context from 'mocha-context'
+import context from 'mocha-ctx'
 import chai from 'chai'
 const should = chai.should()
 
