@@ -24,7 +24,7 @@ require('mocha-ctx')
 // the context() global is now overloaded
 
 describe('down with lambda discrimination!!! (and this and that and self)', () => {
-  it('provides "this" via "context()"', function() => {
+  it('provides "this" via "context()"', function() {
     // context() can still be used as an alias for 'describe(title, fn)', but when
     // passed no arguments, it now returns the 'this' context. ('describe' 
     // will fail however; i.e. context !== describe, but now delegates to it)
